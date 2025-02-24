@@ -9,8 +9,6 @@
 
 - 📄 Pour en savoir plus sur mes expériences précédentes : [https://www.linkedin.com/in/lou-drinnhausen-642b652b9/](https://www.linkedin.com/in/lou-drinnhausen-642b652b9/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
