@@ -3,7 +3,7 @@
 
 - 🌱 J'apprends actuellement à développer sur le web : **sites, bases de données, jeux vidéos, 3D.**
 
-- 👨‍💻 Tous mes projets sont disponibles ici : [https://loudrinnhausenf64d.myportfolio.com/](https://loudrinnhausenf64d.myportfolio.com/)
+- 👨‍💻 Tous mes projets créatifs sont disponibles ici : [https://loudrinnhausenf64d.myportfolio.com/](https://loudrinnhausenf64d.myportfolio.com/)
 
 - 📫 Pour me contacter : **lou.drinnhausen@gmail.com**
 
