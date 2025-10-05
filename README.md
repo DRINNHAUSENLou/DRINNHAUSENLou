@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour👋,Je m'appelle Lou DRINNHAUSEN</h1>
-<h3 align="center">Je suis étudiante en 2ème année et passionnée par le développement web !</h3>
+<h3 align="center">Je suis étudiante en 3ème année et passionnée par le développement web !</h3>
 
 - 🌱 J'apprends actuellement à développer sur le web : **sites, bases de données, jeux vidéos, 3D.**
 
