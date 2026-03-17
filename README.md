@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour👋,Je m'appelle Lou DRINNHAUSEN</h1>
-<h3 align="center">Je suis étudiante en 3ème année et passionnée par le développement web !</h3>
+<h3 align="center">
+Je suis étudiante en 3ème année, passionnée par le développement web, et je rejoindrai à la rentrée le Master of Science (4ème année) à <strong>Épitech</strong> !
+</h3>
 
 - 🌱 J'apprends actuellement à développer sur le web : **sites, bases de données, jeux vidéos, 3D.**
-
-- 👨‍💻 Tous mes autres projets créatifs sont disponibles ici : [https://loudrinnhausenf64d.myportfolio.com/](https://loudrinnhausenf64d.myportfolio.com/)
 
 - 📫 Pour me contacter : **lou.drinnhausen@gmail.com**
 
