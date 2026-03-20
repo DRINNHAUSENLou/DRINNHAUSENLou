@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour👋,Je m'appelle Lou DRINNHAUSEN</h1>
 <h3 align="center">
-Je suis étudiante en 3ème année, passionnée par le développement web, et je rejoindrai à la rentrée le Master of Science (4ème année) à <strong>Épitech</strong> !
+Je suis étudiante en 3ème année de BUT MMI, passionnée par le développement web. Je recherche une alternance pour la rentrée, dans le cadre de mon entrée en Master of Science (4ᵉ année) à<strong>Épitech</strong> !
 </h3>
 
 - 🌱 J'apprends actuellement à développer sur le web : **sites, bases de données, jeux vidéos, 3D.**
