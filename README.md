@@ -9,20 +9,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Development-Web-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UX/UI-Design-pink?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Creative-Tech-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-Management-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-##  À propos de moi
+## 👩‍💻 À propos de moi
 
 🎯 Grâce à ma formation en **MMI**, je suis capable de concevoir et développer un projet digital **de A à Z** :
 
-💻 **Développement** : création de sites et d’applications web (front-end & back-end)  
-🎨 **Design** : conception d’interfaces modernes et intuitives (UI)  
-🧠 **UX** : réflexion sur l’expérience utilisateur et l’ergonomie  
+💻 **Développement** : sites et applications web (front-end & back-end)  
+🎨 **Design** : interfaces modernes et intuitives (UI)  
+🧠 **UX** : expérience utilisateur et ergonomie  
 🗄️ **Base de données** : modélisation et gestion  
-🚀 **Déploiement** : mise en ligne et optimisation  
+🚀 **Déploiement** : mise en ligne et gestion d’environnement  
 
 💡 Je travaille sur des projets variés :
 - sites web
@@ -33,25 +33,34 @@
 
 ---
 
-##  Compétences
+## 🚀 Compétences techniques
 
-### 💻 Développement
-- HTML / CSS / JavaScript  
-- PHP / Laravel  
-- Bootstrap / Sass  
+### 💻 Développement Web
+- HTML5, CSS3, JavaScript  
+- PHP, Node.js, C#  
+- Tailwind CSS, Bootstrap  
 
-### 🗄️ Base de données
-- MySQL  
+### ⚙️ Frameworks & CMS
+- Laravel, Symfony  
+- Twig  
+- WordPress  
 
-### 🎨 UX / UI & Design
-- UX Design (ergonomie, parcours utilisateur)  
-- UI Design (maquettes, prototypage)  
-- Figma, Photoshop, Illustrator  
+### 🗄️ Outils & Environnement
+- Git, GitHub, GitLab  
+- npm  
+- MySQL, phpMyAdmin  
+- Plesk  
+- VS Code  
 
-### 🎮 Autres technologies
-- Unity (C#)  
-- Blender (3D)  
-- Python  
+---
+
+## 🧠 Compétences complémentaires
+
+- Méthodes Agile : Scrum, Kanban  
+- Gestion de projet  
+- UX/UI Design  
+- Ergonomie  
+- Accessibilité  
 
 ---
 
