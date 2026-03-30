@@ -1,28 +1,71 @@
-<h1 align="center">Bonjour👋,Je m'appelle Lou DRINNHAUSEN</h1>
+<h1 align="center">✨ Bonjour 👋, je m'appelle Lou Drinnhausen</h1>
+
 <h3 align="center">
-Je suis étudiante en 3ème année de BUT MMI, passionnée par le développement web. Je recherche une alternance pour la rentrée, dans le cadre de mon entrée en Master of Science (4ᵉ année) à<strong>Épitech</strong> !
+🎓 Étudiante en 3ᵉ année de BUT MMI <br>
+💻 Passionnée par le développement web et la conception d’expériences digitales <br><br>
+🚀 À la recherche d’une alternance pour intégrer un Master of Science à <strong>Épitech</strong>
 </h3>
 
-- 🌱 J'apprends actuellement à développer sur le web : **sites, bases de données, jeux vidéos, 3D.**
-
-- 📫 Pour me contacter : **lou.drinnhausen@gmail.com**
-
-- 📄 Pour en savoir plus sur mes expériences précédentes : [https://www.linkedin.com/in/lou-drinnhausen-642b652b9/](https://www.linkedin.com/in/lou-drinnhausen-642b652b9/)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Development-Web-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UX/UI-Design-pink?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Creative-Tech-purple?style=for-the-badge"/>
 </p>
 
-<h3 align="left">Langages et Outils:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-</a>
+---
 
-<a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>
+##  À propos de moi
 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
-</a></p>
+🎯 Grâce à ma formation en **MMI**, je suis capable de concevoir et développer un projet digital **de A à Z** :
 
+💻 **Développement** : création de sites et d’applications web (front-end & back-end)  
+🎨 **Design** : conception d’interfaces modernes et intuitives (UI)  
+🧠 **UX** : réflexion sur l’expérience utilisateur et l’ergonomie  
+🗄️ **Base de données** : modélisation et gestion  
+🚀 **Déploiement** : mise en ligne et optimisation  
+
+💡 Je travaille sur des projets variés :
+- sites web
+- applications
+- expériences interactives
+- jeux vidéo 🎮
+- projets 3D
+
+---
+
+##  Compétences
+
+### 💻 Développement
+- HTML / CSS / JavaScript  
+- PHP / Laravel  
+- Bootstrap / Sass  
+
+### 🗄️ Base de données
+- MySQL  
+
+### 🎨 UX / UI & Design
+- UX Design (ergonomie, parcours utilisateur)  
+- UI Design (maquettes, prototypage)  
+- Figma, Photoshop, Illustrator  
+
+### 🎮 Autres technologies
+- Unity (C#)  
+- Blender (3D)  
+- Python  
+
+---
+
+## 📫 Me contacter
+
+<p align="center">
+  ✉️ <strong>lou.drinnhausen@gmail.com</strong><br>
+  🔗 <a href="https://www.linkedin.com/in/lou-drinnhausen-642b652b9/">LinkedIn</a>
+</p>
+
+---
+
+## 🛠️ Langages & Outils
+
+<p align="center">
+  <!-- tes icônes ici -->
+</p>
