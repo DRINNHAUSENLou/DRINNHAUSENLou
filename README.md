@@ -14,38 +14,38 @@
 
 ---
 
-## 👩‍💻 À propos de moi
+##  À propos de moi
 
-🎯 Grâce à ma formation en **MMI**, je suis capable de concevoir et développer un projet digital **de A à Z** :
+Grâce à ma formation en **MMI**, je suis capable de concevoir et développer un projet digital **de A à Z** :
 
-💻 **Développement** : sites et applications web (front-end & back-end)  
-🎨 **Design** : interfaces modernes et intuitives (UI)  
-🧠 **UX** : expérience utilisateur et ergonomie  
-🗄️ **Base de données** : modélisation et gestion  
-🚀 **Déploiement** : mise en ligne et gestion d’environnement  
+ **Développement** : sites et applications web (front-end & back-end)  
+ **Design** : interfaces modernes et intuitives (UI)  
+ **UX** : expérience utilisateur et ergonomie  
+ **Base de données** : modélisation et gestion  
+ **Déploiement** : mise en ligne et gestion d’environnement  
 
-💡 Je travaille sur des projets variés :
+ Je travaille sur des projets variés :
 - sites web
 - applications
 - expériences interactives
-- jeux vidéo 🎮
+- jeux vidéo 
 - projets 3D
 
 ---
 
-## 🚀 Compétences techniques
+##  Compétences techniques
 
-### 💻 Développement Web
+###  Développement Web
 - HTML5, CSS3, JavaScript  
 - PHP, Node.js, C#  
 - Tailwind CSS, Bootstrap  
 
-### ⚙️ Frameworks & CMS
+###  Frameworks & CMS
 - Laravel, Symfony  
 - Twig  
 - WordPress  
 
-### 🗄️ Outils & Environnement
+###  Outils & Environnement
 - Git, GitHub, GitLab  
 - npm  
 - MySQL, phpMyAdmin  
@@ -54,7 +54,7 @@
 
 ---
 
-## 🧠 Compétences complémentaires
+##  Compétences complémentaires
 
 - Méthodes Agile : Scrum, Kanban  
 - Gestion de projet  
@@ -64,7 +64,7 @@
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
 <p align="center">
   ✉️ <strong>lou.drinnhausen@gmail.com</strong><br>
@@ -73,7 +73,7 @@
 
 ---
 
-## 🛠️ Langages & Outils
+##  Langages & Outils
 
 <p align="center">
 
