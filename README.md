@@ -60,7 +60,9 @@ Grâce à ma formation en **MMI**, je suis capable de concevoir et développer u
 - Gestion de projet  
 - UX/UI Design  
 - Ergonomie  
-- Accessibilité  
+- Accessibilité
+- Maquettage (figma)  
+
 
 ---
 
